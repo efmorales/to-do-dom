@@ -1,0 +1,55 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: rgb(43, 139, 172);
+    ;
+}
+
+.textBox {
+    background: rgb(142, 213, 246);
+    color: rgb(0, 0, 0);
+    width: 500px;
+    height: 30px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.addButton {
+    background: rgb(88, 183, 102);
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    width: 200px;
+}
+.ccButton {
+    background: rgb(234, 183, 52);
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    width: 200px;
+}
+.removeAllButton {
+    background: rgb(225, 78, 107);
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    width: 100px;
+}
+
+.toDoClass {
+    background-color: rgb(118, 233, 135);
+}
+
+.hide {
+    display: "none";
+}
+
+.displayTasks {
+    border: 1px solid black;
+    width: 505px;
+}
+
+.edit {
+    margin: 10px;
+}
